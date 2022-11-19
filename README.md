@@ -1,5 +1,6 @@
 <!-- # Hi, welcome to my profile 👋
 I'm **Simone** (he/him) - a IT based web developer! <!-- currently employed at [Aspenify](https://www.aspenify.com/)!🚀-->
+![Markdown-badge-kohasummons-stripped-image](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <br /> <br /><br /><br />
 <h1 align="center">Hi 👋, I'm Simone M.</h1>
