@@ -39,7 +39,15 @@ And you can follow me here on GitHub!
 - I used to be a competitive Rocket League player, and have achieved a top 10 rank on their leaderboards.
 - I like to create video games, although with my current focus on web development. I'm not doing that too much right now.
 -
-- 
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishavchanda&&theme=xcode)](https://github.com/rishavchanda)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
+
+
 
 <!-- **Slayx143/Slayx143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
