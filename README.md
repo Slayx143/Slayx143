@@ -1,7 +1,7 @@
 <!-- # Hi, welcome to my profile 👋
 I'm **Simone** (he/him) - a IT based web developer! <!-- currently employed at [Aspenify](https://www.aspenify.com/)!🚀-->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" />
+  <img src="https://imgur.com/a/fXOxHQC" width="400" />    <!-- https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif -->
 </p>
 <h1 align="center">Hi 👋, I'm Simone M.</h1>
 <h3 align="center">A passionate web developer from Italy</h3>
