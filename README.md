@@ -40,6 +40,7 @@ And you can follow me here on GitHub!
 - I like to create video games, although with my current focus on web development. I'm not doing that too much right now.
 -
 <hr>
+
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=slayx143&&theme=xcode)](https://github.com/Slayx143)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=slayx143&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Slayx143" /></p>
