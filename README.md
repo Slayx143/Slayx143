@@ -1,5 +1,5 @@
 <!-- # Hi, welcome to my profile 👋
-I'm **Simone** (he/him) - a IT based web developer! <!-- currently employed at [Aspenify](https://www.aspenify.com/)! -->🚀 -->
+I'm **Simone** (he/him) - a IT based web developer! <!-- currently employed at [Aspenify](https://www.aspenify.com/)!🚀-->
 
 <h1 align="center">Hi 👋, I'm Simone M.</h1>
 <h3 align="center">A passionate web developer from Italy</h3>
