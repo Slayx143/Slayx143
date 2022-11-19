@@ -5,7 +5,7 @@ I'm **Simone** (he/him) - a IT based web developer! <!-- currently employed at [
 <h3 align="center">A passionate web developer from Italy</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-## Stuff I'm working on ⌨️
+<p align="left"> ## Stuff I'm working on ⌨️ </p
 - <!-- Creating a [Twitter Clone](https://github.com/arkii1/twitter-app) -->
 - <!-- Redesigning my portfolio site in Figma -->
 - <!-- Cleaning up my github profile and previous projects -->
