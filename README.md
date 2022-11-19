@@ -3,7 +3,7 @@ I'm **Simone** (he/him) - a IT based web developer! <!-- currently employed at [
 
 <h1 align="center">Hi 👋, I'm Simone M.</h1>
 <h3 align="center">A passionate web developer from Italy</h3>
-<img align="right" alt="Coding" width="400" margin-top:"100" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" margin-top:"10px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## Stuff I'm working on ⌨️
 - <!-- Creating a [Twitter Clone](https://github.com/arkii1/twitter-app) -->
