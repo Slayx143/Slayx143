@@ -1,8 +1,8 @@
 <!-- # Hi, welcome to my profile 👋
 I'm **Simone** (he/him) - a IT based web developer! <!-- currently employed at [Aspenify](https://www.aspenify.com/)!🚀-->
-<p align="center">
+<!-- <p align="center">
   <img src="https://camo.githubusercontent.com/f6decabc6a509fd6d5d8a1053fedc3ad96458e223c6a9f8f312d125b6e833c7b/68747470733a2f2f692e696d6775722e636f6d2f6958754c3148472e706e67"/>    <!-- https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif -->
-</p>
+<!-- </p> -->
 <h1 align="center">Hi 👋, I'm Simone M.</h1>
 <h3 align="center">A passionate web developer from Italy</h3>
 
