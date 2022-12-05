@@ -17,10 +17,10 @@ I'm **Simone** (he/him) - a IT based web developer! <!-- currently employed at [
 - <!-- React's **Context API** -->
 
 ## Technologies  💻
-<!--
+
 | Languages     | Frameworks    | Testing |  Version Control | Environment   | Database             |  Other       |
 | ------------- | ------------- | ------- | ---------------- | ------------- | -------------------- | ------------ |
-| JavaScript    | React         | Jest    | Git              | Ubunutu       | Mongodb              | npm          |
+| <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>    | React         | Jest    | Git              | Ubunutu       | Mongodb              | npm          |
 | HTML          | NodeJS        |         | GitHub           | VSCode        | FireStore (Firebase) | Webpack      | 
 | CSS           | Express       |         | GitLab           | Windows       |                      | Firebase     |
 | C#            | Mono          |         |                  | Visual Studio |                      | Unity        |
@@ -30,7 +30,7 @@ I'm **Simone** (he/him) - a IT based web developer! <!-- currently employed at [
  Other stuff to add: 
 - mongoose
 - C++? Python? Jupyter Notebook? Matlab? RStudio?
--  -->
+- 
 
 ## Connect with me ✉️
 I love to get involved with the tech community! You can find me here:
