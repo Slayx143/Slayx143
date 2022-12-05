@@ -46,8 +46,6 @@ And you can follow me here on GitHub!
 -
 <hr>
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=slayx143&&theme=xcode)](https://github.com/Slayx143)
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=slayx143&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Slayx143" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=slayx143&show_icons=true&locale=en&theme=tokyonight" alt="Slayx143" /></p>
